@@ -1,0 +1,15 @@
+CriaCartao( 
+    'programação',
+    'O que é JavasCript?',
+    'O JavaScript é uma linguagem de programação'
+)
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
+)
+CriaCartao(
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
